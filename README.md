@@ -1,2 +1,8 @@
 # CstringStrCmp
-Cstring - Compare two cstrings using strcmp
+
+Goal
+- Cstring - Compare two cstrings using strcmp
+
+
+Example Output
+
